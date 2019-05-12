@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8816PWPR
+D Dual H-Bridge Motor Driver, HTSSOP-16
+K H-bridge motor driver
+F http://www.ti.com/lit/ds/symlink/drv8833.pdf
+$ENDCMP
+#
+#End Doc Library
